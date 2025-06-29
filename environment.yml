@@ -1,0 +1,25 @@
+name: envsspinnv2
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.12
+  - numpy<2.0
+  - matplotlib
+  - scipy
+  - tqdm
+  - ipython
+  - jupyter
+  - pytest
+  - pytorch=2.2.2
+  - torchaudio=2.2.2
+  - torchvision=0.17.2
+  - cudatoolkit=11.8  # Specify the CUDA version compatible with your hardware
+  - pip
+  - pylops
+  - numba==0.60.0 # Pay attention to numpy and python version requisites, and cudatoolkit
+  - pip:
+    - setuptools_scm
+    - torchsummary
