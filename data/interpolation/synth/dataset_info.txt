@@ -1,0 +1,12 @@
+
+# Data dimensions:
+ox, dx, nx = 0, 10, 300#0, 10,200 #0, 12.5, 250;  
+ot, dt, nt = 850, 0.004, 2000 #850, 0.004, 2000 #350, 0.004, 1200
+
+fc = 15Hz
+
+# Subsample factor:
+nsub = 3
+
+# Loss function data-term weight:
+lamda = 1000

@@ -1,0 +1,1 @@
+store_param = {'data shape = ': (800, 180), 'ox': 0, 'dx': 26.7, 'nx': 180, 'ot': 450, 'dt': 0.004, 'nt': 800, 'units:': 'dx (m), dt (s)', 'shot number': 80, 'Data created from:': 'gom_raw_1001_180_2404.bin'}
