@@ -45,7 +45,6 @@ pip install -e .
 **Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 2.10GHz equipped with a single NVIDIA GEForce RTX 3090 GPU. Different environment 
 configurations may be required for different combinations of workstation and GPU.
 
-**Disclaimer:**A copy of this repository has been made public at [LINK]. All future development will be initially made available to sponsors in this repository.
 
 ## Cite Us
 Brandolin, F., Ravasi, M. and Alkhalifah, T. (2025) Slope assisted Physics-informed neural networks for seismic signal separation with applications on ground roll removal and interpolation. Geophysical Prospecting, 73, 1337–1363. [DOI: 10.1111/1365-2478.70004](https://doi.org/10.1111/1365-2478.70004)
